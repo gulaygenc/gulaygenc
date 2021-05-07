@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gülay Genç
 ---
-- 🔭 I’m currently working on SQL
+- 🔭 I’m currently working on SQL, Java
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: gulaygenc08@gmail.com
 <!--
