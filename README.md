@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gülay Genç
 ---
-- 🔭 I’m currently working on HTML
-- 🌱 I’m currently learning CSS
+- 🔭 I’m currently working on Front-end
+- 🌱 I’m currently learning HTML,CSS
 - 📫 How to reach me: gulaygenc08@gmail.com
 <!--
 **gulaygenc/gulaygenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
