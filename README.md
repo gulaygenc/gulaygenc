@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gülay Genç
 ---
-- 🔭 I’m currently working on Front-end
+- 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning HTML, CSS
 - 📫 How to reach me: gulaygenc08@gmail.com
 <!--
