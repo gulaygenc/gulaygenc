@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning Javascript, Node.js
 - 📫 How to reach me: gulaygenc08@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gulaygenc/" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" height="30" width="30" /></a> 
+</p>
 <!--
 **gulaygenc/gulaygenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
