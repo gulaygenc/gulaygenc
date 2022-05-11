@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gülay Genç
 ---
 - 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning Javascript, Node.js
+- 🌱 I’m currently learning Javascript, Flask
 - 📫 How to reach me: gulaygenc08@gmail.com
 
 <h3 align="left">Connect with me:</h3>
