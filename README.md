@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gülay Genç
 ---
 - 🔭 I’m currently working on Deep Learning and Data Science
-- 🌱 I’m currently learning Deep Learning Models
+- 🌱 I’m currently learning Object Detection
 - 📫 How to reach me: gulaygenc08@gmail.com
 
 <h3 align="left">Connect with me:</h3>
