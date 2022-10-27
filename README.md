@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Gülay Genç
+# Hi 👋, I'm Gülay
 ---
 - 🔭 I’m currently working on Deep Learning Methods and NLP
 - 🌱 I’m currently learning Object Detection and Text Classification 
