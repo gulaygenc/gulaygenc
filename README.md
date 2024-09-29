@@ -1,7 +1,7 @@
 # Hi 👋, I'm Gülay
 ---
-- 🔭 I’m currently working on Deep Learning Methods and NLP
-- 🌱 I’m currently learning Object Detection and Text Classification 
+- 🔭 I’m currently working on Mobile Development
+- 🌱 I’m currently learning React Native and Next.js
 - 📫 How to reach me: gulaygenc08@gmail.com
 
 <h3 align="left">Connect with me:</h3>
